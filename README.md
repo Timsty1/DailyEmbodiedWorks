@@ -19,4 +19,5 @@ broad impact on the field.
 
 ## Index
 
+- [2026-04-18](./daily/2026-04-18.md)
 - [2026-04-17](./daily/2026-04-17.md)
